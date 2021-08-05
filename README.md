@@ -1,2 +1,2 @@
-# Personal favorite games and anime
+# Personal favorite games and anime app
 
