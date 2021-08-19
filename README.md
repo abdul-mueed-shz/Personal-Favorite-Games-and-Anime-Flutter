@@ -1,4 +1,5 @@
-# Personal favorite games and anime app
+# 
+Personal favorite games and anime app
 #
 ![home](https://user-images.githubusercontent.com/52679916/130120440-e3ad4d63-f682-4aee-9c4b-9ddc3395fffa.jpg)
 &nbsp; &nbsp;
